@@ -1,1 +1,4 @@
-zk-log/*
+.undodir
+kafka-data
+zk-data
+zk-log
